@@ -47,8 +47,9 @@
     "timeout_unit": "seconds",
     "upload_at_ts": 1771639510.5394475,
     "upload_at": "2026-02-21 02:05:10",
-    "status": "uploading",
-    "remaining_seconds": 0
+    "status": "failed",
+    "remaining_seconds": 0,
+    "error": "File tidak valid: File tidak ditemukan"
   },
   {
     "id": "41c66b15-b647-4759-bd4a-18cc60bb0875",
@@ -96,10 +97,11 @@
     "timeout_seconds": 5.0,
     "timeout_value": 5.0,
     "timeout_unit": "seconds",
-    "upload_at_ts": null,
-    "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "upload_at_ts": 1771639518.7490056,
+    "upload_at": "2026-02-21 02:05:18",
+    "status": "pending",
+    "remaining_seconds": 5.0,
+    "activated_at": "2026-02-21 02:05:13"
   },
   {
     "id": "826c9b8a-a128-4c3b-8746-c178f0d7e707",
