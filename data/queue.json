@@ -47,9 +47,12 @@
     "timeout_unit": "seconds",
     "upload_at_ts": 1771639510.5394475,
     "upload_at": "2026-02-21 02:05:10",
-    "status": "failed",
+    "status": "done",
     "remaining_seconds": 0,
-    "error": "File tidak valid: File tidak ditemukan"
+    "error": "File tidak valid: File tidak ditemukan",
+    "video_id": "x5s2sw6fASo",
+    "link": "https://youtu.be/x5s2sw6fASo",
+    "uploaded_at": "2026-02-21 02:05:20"
   },
   {
     "id": "41c66b15-b647-4759-bd4a-18cc60bb0875",
