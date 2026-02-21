@@ -100,7 +100,7 @@
     "upload_at_ts": 1771672499.436751,
     "upload_at": "2026-02-21 11:14:59",
     "status": "pending",
-    "remaining_seconds": 35461.78597784042,
+    "remaining_seconds": 35399.41916203499,
     "activated_at": "2026-02-21 01:14:59"
   },
   {
@@ -152,7 +152,7 @@
     "upload_at_ts": 1771661705.437027,
     "upload_at": "2026-02-21 08:15:05",
     "status": "pending",
-    "remaining_seconds": 24667.78625392914,
+    "remaining_seconds": 24605.419438123703,
     "activated_at": "2026-02-21 01:15:05"
   },
   {
@@ -204,7 +204,7 @@
     "upload_at_ts": 1771654509.037572,
     "upload_at": "2026-02-21 06:15:09",
     "status": "pending",
-    "remaining_seconds": 17471.386798858643,
+    "remaining_seconds": 17409.019983053207,
     "activated_at": "2026-02-21 01:15:09"
   },
   {
@@ -256,7 +256,7 @@
     "upload_at_ts": 1771654514.6370387,
     "upload_at": "2026-02-21 06:15:14",
     "status": "pending",
-    "remaining_seconds": 17476.986265659332,
+    "remaining_seconds": 17414.619449853897,
     "activated_at": "2026-02-21 01:15:14"
   },
   {
