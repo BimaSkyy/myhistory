@@ -47,8 +47,9 @@
     "timeout_unit": "seconds",
     "upload_at_ts": 1771637959.8044522,
     "upload_at": "2026-02-21 01:39:19",
-    "status": "pending",
-    "remaining_seconds": 24.038464546203613
+    "status": "failed",
+    "remaining_seconds": 24.038464546203613,
+    "error": "Duplikat: Sudah ada di antrian: The Last of Us 🔥 #shorts #thelastofus #thelastofus2"
   },
   {
     "id": "baba541e-dc55-4965-a833-b46e699721cb",
@@ -96,9 +97,10 @@
     "timeout_seconds": 6.0,
     "timeout_value": 6.0,
     "timeout_unit": "seconds",
-    "upload_at_ts": null,
-    "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "upload_at_ts": 1771637969.9083927,
+    "upload_at": "2026-02-21 01:39:29",
+    "status": "pending",
+    "remaining_seconds": 6.0,
+    "activated_at": "2026-02-21 01:39:23"
   }
 ]
