@@ -102,8 +102,11 @@
     "timeout_unit": "seconds",
     "upload_at_ts": 1771639518.7490056,
     "upload_at": "2026-02-21 02:05:18",
-    "status": "uploading",
+    "status": "done",
     "remaining_seconds": 0,
-    "activated_at": "2026-02-21 02:05:13"
+    "activated_at": "2026-02-21 02:05:13",
+    "video_id": "mAD5THDLeUw",
+    "link": "https://youtu.be/mAD5THDLeUw",
+    "uploaded_at": "2026-02-21 02:05:26"
   }
 ]
