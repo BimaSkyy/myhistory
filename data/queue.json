@@ -49,7 +49,7 @@
     "upload_at": "2026-02-21 01:14:33",
     "status": "failed",
     "remaining_seconds": 4.8,
-    "error": "Duplikat: Sudah ada di antrian: The Last of Us 🔥 #shorts #thelastofus #thelastofus2"
+    "error": "File tidak valid: File tidak ditemukan"
   },
   {
     "id": "40263e05-cafb-470f-b89d-39c49d441355",
@@ -149,10 +149,11 @@
     "timeout_seconds": 25200.0,
     "timeout_value": 7.0,
     "timeout_unit": "hours",
-    "upload_at_ts": null,
-    "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "upload_at_ts": 1771661705.437027,
+    "upload_at": "2026-02-21 08:15:05",
+    "status": "pending",
+    "remaining_seconds": 25200.0,
+    "activated_at": "2026-02-21 01:15:05"
   },
   {
     "id": "338bc03d-aaa3-4c8b-accd-c6b5b60070e8",
