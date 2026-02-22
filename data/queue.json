@@ -266,8 +266,8 @@
     "timeout_unit": "hours",
     "upload_at_ts": 1771795037.5988204,
     "upload_at": "2026-02-22 21:17:17",
-    "status": "pending",
-    "remaining_seconds": 37.6,
+    "status": "uploading",
+    "remaining_seconds": 0,
     "activated_at": "2026-02-22 15:17:17"
   },
   {
