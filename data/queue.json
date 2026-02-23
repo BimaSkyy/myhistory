@@ -156,12 +156,12 @@
     "timeout_seconds": 21600.0,
     "timeout_value": 6.0,
     "timeout_unit": "hours",
-    "upload_at_ts": 1771751823.29108,
-    "upload_at": "2026-02-22 09:17:03",
-    "status": "failed",
-    "remaining_seconds": 0,
+    "upload_at_ts": null,
+    "upload_at": "(menunggu giliran)",
+    "status": "waiting",
+    "remaining_seconds": null,
     "activated_at": "2026-02-22 03:17:03",
-    "error": "Belum autentikasi YouTube"
+    "retried_at": "2026-02-23 20:59:26"
   },
   {
     "id": "f0125021-c26e-4aa4-84f2-265329beb308",
