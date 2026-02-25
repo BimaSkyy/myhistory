@@ -555,10 +555,13 @@
     "timeout_unit": "hours",
     "upload_at_ts": 1772054374.8078198,
     "upload_at": "2026-02-25 21:19:34",
-    "status": "uploading",
+    "status": "done",
     "remaining_seconds": 0,
     "playlist_id": "PLV6wSj75waCiIRMPl-9Ggbn-g0tevl2SN",
-    "activated_at": "2026-02-25 11:19:34"
+    "activated_at": "2026-02-25 11:19:34",
+    "video_id": "SRue1zGbZFM",
+    "link": "https://youtu.be/SRue1zGbZFM",
+    "uploaded_at": "2026-02-25 21:19:55"
   },
   {
     "id": "53bc05cd-7736-4973-a879-1c19b4c1fcb5",
@@ -607,11 +610,12 @@
     "timeout_seconds": 36000.0,
     "timeout_value": 10.0,
     "timeout_unit": "hours",
-    "upload_at_ts": null,
-    "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null,
-    "playlist_id": "PLV6wSj75waCiIRMPl-9Ggbn-g0tevl2SN"
+    "upload_at_ts": 1772090395.7898777,
+    "upload_at": "2026-02-26 07:19:55",
+    "status": "pending",
+    "remaining_seconds": 36000.0,
+    "playlist_id": "PLV6wSj75waCiIRMPl-9Ggbn-g0tevl2SN",
+    "activated_at": "2026-02-25 21:19:55"
   },
   {
     "id": "bb0ca753-7795-4732-9108-7aff6961172b",
