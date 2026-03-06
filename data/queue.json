@@ -1734,10 +1734,11 @@
     "timeout_unit": "hours",
     "upload_at_ts": 1772846793.3763156,
     "upload_at": "2026-03-07 01:26:33",
-    "status": "pending",
-    "remaining_seconds": 11873.6,
+    "status": "failed",
+    "remaining_seconds": 11798.0,
     "playlist_id": "PLV6wSj75waCiIRMPl-9Ggbn-g0tevl2SN",
-    "activated_at": "2026-03-06 15:26:33"
+    "activated_at": "2026-03-06 15:26:33",
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "1f33a5e6-a6f7-4b82-b5c9-6bdfdeaab2b1",
@@ -1795,11 +1796,12 @@
     "timeout_seconds": 36000.0,
     "timeout_value": 10.0,
     "timeout_unit": "hours",
-    "upload_at_ts": null,
-    "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null,
-    "playlist_id": "PLV6wSj75waCiIRMPl-9Ggbn-g0tevl2SN"
+    "upload_at_ts": 1772871011.3515437,
+    "upload_at": "2026-03-07 08:10:11",
+    "status": "pending",
+    "remaining_seconds": 36000.0,
+    "playlist_id": "PLV6wSj75waCiIRMPl-9Ggbn-g0tevl2SN",
+    "activated_at": "2026-03-06 22:10:11"
   },
   {
     "id": "4a1a0a5d-16d7-4e90-8e2e-60fca561b08b",
