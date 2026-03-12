@@ -3080,10 +3080,11 @@
     "timeout_unit": "hours",
     "upload_at_ts": 1773357317.8050306,
     "upload_at": "2026-03-12 23:15:17",
-    "status": "uploading",
+    "status": "failed",
     "remaining_seconds": 0,
     "playlist_id": "PLV6wSj75waCiIRMPl-9Ggbn-g0tevl2SN",
-    "activated_at": "2026-03-12 13:15:17"
+    "activated_at": "2026-03-12 13:15:17",
+    "error": "Belum autentikasi YouTube"
   },
   {
     "id": "9f2c2d81-5811-48eb-b81c-17dea484edb4",
@@ -3144,11 +3145,12 @@
     "timeout_seconds": 36000.0,
     "timeout_value": 10.0,
     "timeout_unit": "hours",
-    "upload_at_ts": null,
-    "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null,
-    "playlist_id": "PLV6wSj75waCiIRMPl-9Ggbn-g0tevl2SN"
+    "upload_at_ts": 1773393325.4952629,
+    "upload_at": "2026-03-13 09:15:25",
+    "status": "pending",
+    "remaining_seconds": 36000.0,
+    "playlist_id": "PLV6wSj75waCiIRMPl-9Ggbn-g0tevl2SN",
+    "activated_at": "2026-03-12 23:15:25"
   },
   {
     "id": "3af6dd23-656c-481a-a545-4f615de12a34",
