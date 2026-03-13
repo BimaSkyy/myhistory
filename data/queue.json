@@ -2944,13 +2944,13 @@
     "timeout_seconds": 18000.0,
     "timeout_value": 5.0,
     "timeout_unit": "hours",
-    "upload_at_ts": 1773303305.3722908,
-    "upload_at": "2026-03-12 08:15:05",
-    "status": "failed",
-    "remaining_seconds": 0,
+    "upload_at_ts": null,
+    "upload_at": "(menunggu giliran)",
+    "status": "waiting",
+    "remaining_seconds": null,
     "playlist_id": "PLV6wSj75waCiIRMPl-9Ggbn-g0tevl2SN",
     "activated_at": "2026-03-12 03:15:05",
-    "error": "Belum autentikasi YouTube"
+    "retried_at": "2026-03-13 01:48:23"
   },
   {
     "id": "1dbfd60c-fedf-41c0-ab04-3ee02feb09ca",
