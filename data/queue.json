@@ -4096,7 +4096,10 @@
     "timeout_unit": "hours",
     "upload_at_ts": 1773945197.33194,
     "upload_at": "2026-03-19 18:33:17",
-    "status": "uploading",
-    "remaining_seconds": 0
+    "status": "done",
+    "remaining_seconds": 0,
+    "video_id": "Rij9yPv_NGE",
+    "link": "https://youtu.be/Rij9yPv_NGE",
+    "uploaded_at": "2026-03-19 18:33:41"
   }
 ]
