@@ -3984,9 +3984,12 @@
     "timeout_unit": "hours",
     "upload_at_ts": 1773879565.4754574,
     "upload_at": "2026-03-19 00:19:25",
-    "status": "uploading",
+    "status": "done",
     "remaining_seconds": 0,
     "playlist_id": "PLV6wSj75waCiIRMPl-9Ggbn-g0tevl2SN",
-    "activated_at": "2026-03-18 14:19:25"
+    "activated_at": "2026-03-18 14:19:25",
+    "video_id": "Pe9-wbhr5Dc",
+    "link": "https://youtu.be/Pe9-wbhr5Dc",
+    "uploaded_at": "2026-03-19 00:19:42"
   }
 ]
