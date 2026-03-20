@@ -4206,8 +4206,11 @@
     "timeout_unit": "hours",
     "upload_at_ts": 1774041965.7495801,
     "upload_at": "2026-03-20 21:26:05",
-    "status": "uploading",
+    "status": "done",
     "remaining_seconds": 0,
-    "activated_at": "2026-03-20 16:26:05"
+    "activated_at": "2026-03-20 16:26:05",
+    "video_id": "01mmmOwMiX0",
+    "link": "https://youtu.be/01mmmOwMiX0",
+    "uploaded_at": "2026-03-20 21:26:39"
   }
 ]
