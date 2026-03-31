@@ -49,8 +49,8 @@
     "timeout_unit": "minutes",
     "upload_at_ts": 1774969543.570039,
     "upload_at": "2026-03-31 15:05:43",
-    "status": "pending",
-    "remaining_seconds": 8.4,
+    "status": "uploading",
+    "remaining_seconds": 0,
     "playlist_id": "PLV6wSj75waCiIRMPl-9Ggbn-g0tevl2SN"
   }
 ]
