@@ -601,8 +601,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "[hourly check] File tidak ada di GitHub: HTTP 404"
   },
   {
     "id": "d13feb76-14fd-461c-ad98-c6d0078650fe",
