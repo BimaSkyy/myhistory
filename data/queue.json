@@ -3193,8 +3193,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "[hourly check] File tidak ada di GitHub: HTTP 403"
   },
   {
     "id": "d079b438-d9ef-43fa-bc86-67c6b4272749",
@@ -3248,8 +3249,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "[hourly check] File tidak ada di GitHub: HTTP 403"
   },
   {
     "id": "14c183db-1e2f-42b3-9472-d7181ec0d11d",
@@ -3303,8 +3305,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "[hourly check] File tidak ada di GitHub: HTTP 403"
   },
   {
     "id": "3c15ae58-9586-4d45-b620-4b5e0863a862",
@@ -3358,8 +3361,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "[hourly check] File tidak ada di GitHub: HTTP 403"
   },
   {
     "id": "8d6c8c77-b017-4bdb-b9ec-1070fca61605",
@@ -3413,8 +3417,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "[hourly check] File tidak ada di GitHub: HTTP 403"
   },
   {
     "id": "049680c6-7574-4411-b613-b74fd1c3ee38",
@@ -3468,8 +3473,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "[hourly check] File tidak ada di GitHub: HTTP 403"
   },
   {
     "id": "0d1acbf0-4e94-4e73-9066-495772aa9878",
@@ -3523,8 +3529,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "[hourly check] File tidak ada di GitHub: HTTP 403"
   },
   {
     "id": "e3fb35b3-c3d8-4621-9a2c-1aaff09cb26a",
@@ -3578,8 +3585,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "[hourly check] File tidak ada di GitHub: HTTP 403"
   },
   {
     "id": "a1bca954-53f1-4714-9fc7-4e77d745c6c1",
@@ -5663,61 +5671,6 @@
     "source": "api_v1_github",
     "added_at": "2026-04-04 16:32:28",
     "added_at_ts": 1775320347.1403797,
-    "timeout_seconds": 18000.0,
-    "timeout_value": 5.0,
-    "timeout_unit": "hours",
-    "upload_at_ts": null,
-    "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
-  },
-  {
-    "id": "1dea11cb-942e-4145-9fe4-57a9525ed856",
-    "filename": "project-1.mp4",
-    "file_hash": "c69105eff9ce3de1280e767f969722d481304b5d438ef49c6417ddff71554268",
-    "github_path": "uploads/project-1_924ef383.mp4",
-    "thumbnail_github_path": "thumbnails/thumb_5f71b7a3.jpg",
-    "title": "Use this sound you will go viral 🎵 #shorts",
-    "description": "Use this sound and go viral 🔥 Save this for your next video! #shorts #viral #sound #music #fyp #foryou #youtubeshorts #trending",
-    "tags": [
-      "shorts",
-      "viral",
-      "sound",
-      "music",
-      "fyp",
-      "foryou",
-      "foryoupage",
-      "youtubeshorts",
-      "trending",
-      "trythissong",
-      "usethissong",
-      "musicedit",
-      "songoftheday",
-      "vibes",
-      "aesthetic",
-      "gamingmusic",
-      "gamingvibes",
-      "musicshorts",
-      "chill",
-      "chillmusic",
-      "epicmusic",
-      "edit",
-      "viralshorts",
-      "gaming",
-      "thelastofus",
-      "tlou",
-      "ghostoftsushima",
-      "ps5",
-      "playstation",
-      "gamer",
-      "videogames",
-      "ncs"
-    ],
-    "category": "22",
-    "playlist_id": "PLKoSMe2lPRm_GT30XcdNBDNfqkOh9TlPe",
-    "source": "api_v1_github",
-    "added_at": "2026-04-04 16:35:13",
-    "added_at_ts": 1775320511.8446934,
     "timeout_seconds": 18000.0,
     "timeout_value": 5.0,
     "timeout_unit": "hours",
