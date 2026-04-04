@@ -1235,9 +1235,10 @@
     "timeout_unit": "hours",
     "upload_at_ts": 1775345700.8419018,
     "upload_at": "2026-04-04 23:35:00",
-    "status": "pending",
-    "remaining_seconds": 14700.4,
-    "activated_at": "2026-04-04 18:35:00"
+    "status": "failed",
+    "remaining_seconds": 14471.2,
+    "activated_at": "2026-04-04 18:35:00",
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "747b5c10-08ad-40a6-845d-93d70c239990",
@@ -1292,8 +1293,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "de022385-ac3e-4d00-82c2-b8d56d37ad54",
@@ -1345,10 +1347,12 @@
     "timeout_seconds": 18000.0,
     "timeout_value": 5.0,
     "timeout_unit": "hours",
-    "upload_at_ts": null,
-    "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "upload_at_ts": 1775349233.1377838,
+    "upload_at": "2026-04-05 00:33:53",
+    "status": "failed",
+    "remaining_seconds": 18000.0,
+    "activated_at": "2026-04-04 19:33:53",
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "5c7cabe0-40f8-46d2-b502-fd297b74303e",
@@ -1402,8 +1406,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "765ac09d-0989-4398-9119-8430dac526b7",
@@ -1458,8 +1463,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "419b1e9b-58eb-4672-b856-343f16e4ae44",
@@ -1513,8 +1519,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "823d3bf0-b846-4e1b-a74a-65ba1fcedb70",
@@ -1568,8 +1575,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "718bd72b-0d85-45d6-b624-ea58d3674c1a",
@@ -1621,10 +1629,12 @@
     "timeout_seconds": 18000.0,
     "timeout_value": 5.0,
     "timeout_unit": "hours",
-    "upload_at_ts": null,
-    "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "upload_at_ts": 1775349237.3378677,
+    "upload_at": "2026-04-05 00:33:57",
+    "status": "failed",
+    "remaining_seconds": 18000.0,
+    "activated_at": "2026-04-04 19:33:57",
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "8b223f0f-85e2-412d-afd7-640533f7265d",
@@ -1678,8 +1688,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "d527f883-ad4b-42f8-a4a8-ffd82e8752aa",
@@ -1733,8 +1744,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "ba176f9a-194a-4b6b-9e64-e3266d9bfd17",
@@ -1788,8 +1800,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "007566b3-8fee-49c7-ad12-9c9c74e241d3",
@@ -1843,8 +1856,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "c416da38-c270-46ca-8aa7-77a413d15b5b",
@@ -1896,10 +1910,12 @@
     "timeout_seconds": 18000.0,
     "timeout_value": 5.0,
     "timeout_unit": "hours",
-    "upload_at_ts": null,
-    "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "upload_at_ts": 1775349241.6425762,
+    "upload_at": "2026-04-05 00:34:01",
+    "status": "failed",
+    "remaining_seconds": 18000.0,
+    "activated_at": "2026-04-04 19:34:01",
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "2b7b6e9e-3c09-4a53-b626-285be8b379fb",
@@ -1953,8 +1969,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "9bf48a72-07c2-4835-b22d-379e4f94e1e9",
@@ -2008,8 +2025,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "b90134ac-d080-445f-aca4-8266238f7faa",
@@ -2063,8 +2081,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "db0bce26-952f-446b-981e-c893d613f04a",
@@ -2118,8 +2137,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "6ce51b1e-c644-44c0-a47f-c0a783e15034",
@@ -2171,10 +2191,12 @@
     "timeout_seconds": 18000.0,
     "timeout_value": 5.0,
     "timeout_unit": "hours",
-    "upload_at_ts": null,
-    "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "upload_at_ts": 1775349246.0401514,
+    "upload_at": "2026-04-05 00:34:06",
+    "status": "failed",
+    "remaining_seconds": 18000.0,
+    "activated_at": "2026-04-04 19:34:06",
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "142b6251-be63-472f-ac89-a1ced93af691",
@@ -2228,8 +2250,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "4a6a5af1-be9a-44a2-a011-26dba8459999",
@@ -2283,8 +2306,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "a67d89f8-75dd-45b3-8c62-7add82638987",
@@ -2338,8 +2362,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "83fa9ba5-7bae-46d6-9fd8-375807bc0182",
@@ -2393,8 +2418,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "ff723e53-7a66-4509-85e9-85e674cfff78",
@@ -2446,10 +2472,12 @@
     "timeout_seconds": 18000.0,
     "timeout_value": 5.0,
     "timeout_unit": "hours",
-    "upload_at_ts": null,
-    "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "upload_at_ts": 1775349250.3455913,
+    "upload_at": "2026-04-05 00:34:10",
+    "status": "failed",
+    "remaining_seconds": 18000.0,
+    "activated_at": "2026-04-04 19:34:10",
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "8690e458-51e4-4a4f-bb3e-2f903e76c024",
@@ -2503,8 +2531,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "d740a30c-2a7b-48b7-b05d-b24de2143541",
@@ -2558,8 +2587,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "f6263dfa-3a86-4494-9e48-7c245a6b5374",
@@ -2613,8 +2643,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "bf98660c-594d-409e-b23e-522681e984dd",
@@ -2668,8 +2699,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "01eeb507-ad7f-4e2f-a2fe-3312aab58d79",
@@ -2721,10 +2753,12 @@
     "timeout_seconds": 18000.0,
     "timeout_value": 5.0,
     "timeout_unit": "hours",
-    "upload_at_ts": null,
-    "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "upload_at_ts": 1775349254.739641,
+    "upload_at": "2026-04-05 00:34:14",
+    "status": "failed",
+    "remaining_seconds": 18000.0,
+    "activated_at": "2026-04-04 19:34:14",
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "bc445c56-885d-4035-9225-bbeffd5b6c04",
@@ -2778,8 +2812,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "02b22169-16b1-4cb1-9ab6-36e0a0654af3",
@@ -2833,8 +2868,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "d3ce2d87-ffed-4d1b-81c0-d850709698c8",
@@ -2888,8 +2924,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "94541233-eeb6-435f-95a9-3e5b47cd458b",
@@ -2943,8 +2980,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "65768903-5b2f-4a2f-a025-0aa905944b4e",
@@ -2996,10 +3034,12 @@
     "timeout_seconds": 18000.0,
     "timeout_value": 5.0,
     "timeout_unit": "hours",
-    "upload_at_ts": null,
-    "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "upload_at_ts": 1775349259.041714,
+    "upload_at": "2026-04-05 00:34:19",
+    "status": "failed",
+    "remaining_seconds": 18000.0,
+    "activated_at": "2026-04-04 19:34:19",
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "3ade9b7c-9158-441b-8680-4a059bee87b1",
@@ -3053,8 +3093,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "6f608525-69ff-40a6-b2b7-bf6533919ca7",
@@ -3108,8 +3149,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "cd33136d-9d8f-486d-912c-fa56e3de85c1",
@@ -3163,8 +3205,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "8c475d45-a189-42ef-b290-9e84520b5b9f",
@@ -3666,8 +3709,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "6d065128-178a-490e-80e6-4002bb79575e",
@@ -3719,10 +3763,12 @@
     "timeout_seconds": 18000.0,
     "timeout_value": 5.0,
     "timeout_unit": "hours",
-    "upload_at_ts": null,
-    "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "upload_at_ts": 1775349263.53946,
+    "upload_at": "2026-04-05 00:34:23",
+    "status": "failed",
+    "remaining_seconds": 18000.0,
+    "activated_at": "2026-04-04 19:34:23",
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "8138ca79-8670-4e91-9453-caf59ab1ea4b",
@@ -3776,8 +3822,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "03495e93-e2eb-4007-9cb5-9c6321c69320",
@@ -3831,8 +3878,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "641bc159-07ff-4810-a293-dcb66c62ef9c",
@@ -3886,8 +3934,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "f351753e-7ab0-4bb7-8957-4d022ba1d689",
@@ -3941,8 +3990,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "105933ed-fec7-4678-ace5-b456c6c59bda",
@@ -3994,10 +4044,12 @@
     "timeout_seconds": 18000.0,
     "timeout_value": 5.0,
     "timeout_unit": "hours",
-    "upload_at_ts": null,
-    "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "upload_at_ts": 1775349267.7418292,
+    "upload_at": "2026-04-05 00:34:27",
+    "status": "failed",
+    "remaining_seconds": 18000.0,
+    "activated_at": "2026-04-04 19:34:27",
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "a964765a-22c0-4078-bbbf-b7f792423d1a",
@@ -4051,8 +4103,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "e358a6db-ee4b-414e-87c2-21166b65cfca",
@@ -4106,8 +4159,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "fb510eea-6790-465f-9946-0f2aefb489f7",
@@ -4161,8 +4215,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "570e1452-9863-40f2-bc3b-e69e8c1c2929",
@@ -4216,8 +4271,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "0cac4fea-dfb7-46d0-afb8-a99c2934fa63",
@@ -4269,10 +4325,12 @@
     "timeout_seconds": 18000.0,
     "timeout_value": 5.0,
     "timeout_unit": "hours",
-    "upload_at_ts": null,
-    "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "upload_at_ts": 1775349272.0406158,
+    "upload_at": "2026-04-05 00:34:32",
+    "status": "failed",
+    "remaining_seconds": 18000.0,
+    "activated_at": "2026-04-04 19:34:32",
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "fca1661c-6f72-44cc-8018-75a8ed8856e1",
@@ -4326,8 +4384,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "a0c9295d-053d-4f51-8118-42432c8ba9c4",
@@ -4381,8 +4440,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "51cfb393-8f16-4f2a-b198-142089ee16e5",
@@ -4436,8 +4496,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "135ac8e6-2b34-431a-b360-e8ac3be8e8ce",
@@ -4491,8 +4552,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "b26b7a1b-ec23-433d-8c34-4578c4b8ab03",
@@ -4544,10 +4606,12 @@
     "timeout_seconds": 18000.0,
     "timeout_value": 5.0,
     "timeout_unit": "hours",
-    "upload_at_ts": null,
-    "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "upload_at_ts": 1775349276.839102,
+    "upload_at": "2026-04-05 00:34:36",
+    "status": "failed",
+    "remaining_seconds": 18000.0,
+    "activated_at": "2026-04-04 19:34:36",
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "1afc2bcc-78b5-444d-a0b2-2b41d017ce6f",
@@ -4601,8 +4665,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "26f7fa10-ab7f-4fc4-b08d-8f9ae198c9b0",
@@ -4656,8 +4721,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "5d4c286a-8870-47f6-8ae9-97f70f3e7641",
@@ -4711,8 +4777,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "59179841-a96a-4d5a-971d-3394651ba2a7",
@@ -4766,8 +4833,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "0c167b5b-5c8a-47ef-b0fd-573a21a14af6",
@@ -4819,10 +4887,12 @@
     "timeout_seconds": 18000.0,
     "timeout_value": 5.0,
     "timeout_unit": "hours",
-    "upload_at_ts": null,
-    "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "upload_at_ts": 1775349281.1385078,
+    "upload_at": "2026-04-05 00:34:41",
+    "status": "failed",
+    "remaining_seconds": 18000.0,
+    "activated_at": "2026-04-04 19:34:41",
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "bc1b80d1-c09f-4d92-9dda-603f8d9d19ad",
@@ -4876,8 +4946,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "98257ff8-9f2e-4311-8897-9e1570c4c1c5",
@@ -4931,8 +5002,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "d223d899-09c5-4f2f-882e-02f71e7a4c77",
@@ -4986,8 +5058,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "20a9aef8-e756-44cd-97f4-ba1f9401ad4f",
@@ -5041,8 +5114,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "621f15c7-6ff5-45e0-bac1-9f00a7a0e004",
@@ -5094,10 +5168,12 @@
     "timeout_seconds": 18000.0,
     "timeout_value": 5.0,
     "timeout_unit": "hours",
-    "upload_at_ts": null,
-    "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "upload_at_ts": 1775349285.3368785,
+    "upload_at": "2026-04-05 00:34:45",
+    "status": "failed",
+    "remaining_seconds": 18000.0,
+    "activated_at": "2026-04-04 19:34:45",
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "98973251-50c7-46cb-9882-fe2a8dc38b56",
@@ -5151,8 +5227,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "cda18d99-7276-4af2-888b-f23a70271339",
@@ -5206,8 +5283,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "1d4777e6-91a2-4f97-9563-8a53756f5e65",
@@ -5261,8 +5339,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "bf2569d4-8475-49e9-b71b-d586e352dad9",
@@ -5316,8 +5395,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "ddf0a515-dc4b-4529-aa25-389b014efaf0",
@@ -5369,10 +5449,12 @@
     "timeout_seconds": 18000.0,
     "timeout_value": 5.0,
     "timeout_unit": "hours",
-    "upload_at_ts": null,
-    "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "upload_at_ts": 1775349289.6362033,
+    "upload_at": "2026-04-05 00:34:49",
+    "status": "failed",
+    "remaining_seconds": 18000.0,
+    "activated_at": "2026-04-04 19:34:49",
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "c8f02f8e-2284-4aa6-a5b4-2ebe287c55cd",
@@ -5426,8 +5508,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "08acb905-a420-46ff-a256-8ccf7e038aab",
@@ -5481,8 +5564,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "3fac9741-d845-4faf-9b08-0766c42c8970",
@@ -5536,8 +5620,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "0ed26d3f-aed2-4009-990c-c2c8eff58291",
@@ -5591,8 +5676,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "1f9f67c0-84ab-4f8c-9987-76056e109294",
@@ -5644,10 +5730,12 @@
     "timeout_seconds": 18000.0,
     "timeout_value": 5.0,
     "timeout_unit": "hours",
-    "upload_at_ts": null,
-    "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "upload_at_ts": 1775349293.9410355,
+    "upload_at": "2026-04-05 00:34:53",
+    "status": "failed",
+    "remaining_seconds": 18000.0,
+    "activated_at": "2026-04-04 19:34:53",
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "55f5c940-8d4b-4d18-872b-4543f72f358f",
@@ -5701,8 +5789,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "7a132c2e-7b65-4bca-b892-7e921f01510d",
@@ -5756,8 +5845,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "e57dcec1-e02a-423f-8c2a-642f041a0be6",
@@ -5811,8 +5901,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "852b825b-1db3-4b97-b9bf-c2bd95cf2f0a",
@@ -5866,8 +5957,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "438d42f2-fc09-45a5-98fb-9061be670830",
@@ -5919,10 +6011,12 @@
     "timeout_seconds": 18000.0,
     "timeout_value": 5.0,
     "timeout_unit": "hours",
-    "upload_at_ts": null,
-    "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "upload_at_ts": 1775349298.2368164,
+    "upload_at": "2026-04-05 00:34:58",
+    "status": "failed",
+    "remaining_seconds": 18000.0,
+    "activated_at": "2026-04-04 19:34:58",
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "420b463e-fe6f-4700-9bc8-66e676f53be8",
@@ -5976,8 +6070,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "369905bc-57ad-4f4d-950c-ad1fadaab990",
@@ -6031,8 +6126,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "813b36e3-6124-49f1-a91a-8d771a0caa2a",
@@ -6086,8 +6182,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "36562d21-c02e-40c3-9003-538ec51b1e99",
@@ -6141,8 +6238,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": null,
     "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "status": "failed",
+    "remaining_seconds": null,
+    "error": "Video tidak ditemukan di GitHub"
   },
   {
     "id": "6de998f1-b915-4a82-a92a-632641492fe5",
@@ -6194,10 +6292,11 @@
     "timeout_seconds": 18000.0,
     "timeout_value": 5.0,
     "timeout_unit": "hours",
-    "upload_at_ts": null,
-    "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "upload_at_ts": 1775349302.4357734,
+    "upload_at": "2026-04-05 00:35:02",
+    "status": "pending",
+    "remaining_seconds": 18000.0,
+    "activated_at": "2026-04-04 19:35:02"
   },
   {
     "id": "2af82cea-9a19-4ce2-a844-24953c6a67cd",
