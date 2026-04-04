@@ -5821,10 +5821,11 @@
     "timeout_unit": "hours",
     "upload_at_ts": 1775266478.190635,
     "upload_at": "2026-04-04 01:34:38",
-    "status": "pending",
-    "remaining_seconds": 115.5,
+    "status": "uploading",
+    "remaining_seconds": 0,
     "playlist_id": "PLV6wSj75waCiIRMPl-9Ggbn-g0tevl2SN",
-    "activated_at": "2026-04-03 20:34:38"
+    "activated_at": "2026-04-03 20:34:38",
+    "uploading_since": 1775266487.0905879
   },
   {
     "id": "22308202-977b-4830-882c-2c4b2da11dab",
