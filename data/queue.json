@@ -52,7 +52,8 @@
     "timeout_unit": "seconds",
     "upload_at_ts": 1775388608.088632,
     "upload_at": "2026-04-05 11:30:08",
-    "status": "pending",
-    "remaining_seconds": 20.0
+    "status": "uploading",
+    "remaining_seconds": 0,
+    "uploading_since": 1775388609.5305748
   }
 ]
