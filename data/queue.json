@@ -111,8 +111,9 @@
     "timeout_unit": "hours",
     "upload_at_ts": 1775407062.7243428,
     "upload_at": "2026-04-05 16:37:42",
-    "status": "pending",
-    "remaining_seconds": 45.5
+    "status": "uploading",
+    "remaining_seconds": 0,
+    "uploading_since": 1775407063.4223776
   },
   {
     "id": "08fbc0f8-b951-4b60-a51b-8ba3865152c0",
