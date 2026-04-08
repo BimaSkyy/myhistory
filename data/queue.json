@@ -206,10 +206,13 @@
     "timeout_unit": "hours",
     "upload_at_ts": 1775642863.0377324,
     "upload_at": "2026-04-08 10:07:43",
-    "status": "uploading",
+    "status": "done",
     "remaining_seconds": 0,
     "activated_at": "2026-04-08 05:07:43",
-    "uploading_since": 1775642865.0342329
+    "uploading_since": 1775642865.0342329,
+    "video_id": "povOTAFXSoU",
+    "link": "https://youtu.be/povOTAFXSoU",
+    "uploaded_at": "2026-04-08 10:08:03"
   },
   {
     "id": "84140546-19bf-4d92-a458-f82dc1a8dad4",
@@ -255,10 +258,11 @@
     "timeout_seconds": 18000.0,
     "timeout_value": 5.0,
     "timeout_unit": "hours",
-    "upload_at_ts": null,
-    "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "upload_at_ts": 1775660883.6882207,
+    "upload_at": "2026-04-08 15:08:03",
+    "status": "pending",
+    "remaining_seconds": 18000.0,
+    "activated_at": "2026-04-08 10:08:03"
   },
   {
     "id": "0c538e53-9523-418f-8be2-f1626a05d3aa",
