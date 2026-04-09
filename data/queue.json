@@ -476,9 +476,12 @@
     "timeout_unit": "hours",
     "upload_at_ts": 1775732954.2671778,
     "upload_at": "2026-04-09 11:09:14",
-    "status": "uploading",
+    "status": "done",
     "remaining_seconds": 0,
     "activated_at": "2026-04-09 06:09:14",
-    "uploading_since": 1775732955.9303224
+    "uploading_since": 1775732955.9303224,
+    "video_id": "aMB6tZTftm8",
+    "link": "https://youtu.be/aMB6tZTftm8",
+    "uploaded_at": "2026-04-09 11:09:36"
   }
 ]
