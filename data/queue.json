@@ -800,9 +800,10 @@
     "timeout_unit": "hours",
     "upload_at_ts": 1775862671.6868534,
     "upload_at": "2026-04-10 23:11:11",
-    "status": "pending",
-    "remaining_seconds": 7.6,
-    "activated_at": "2026-04-10 18:11:11"
+    "status": "uploading",
+    "remaining_seconds": 0,
+    "activated_at": "2026-04-10 18:11:11",
+    "uploading_since": 1775862672.9457266
   },
   {
     "id": "67676d8e-ef9b-46ad-8144-70e6250d76ef",
