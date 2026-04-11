@@ -962,9 +962,12 @@
     "timeout_unit": "hours",
     "upload_at_ts": 1775916730.482103,
     "upload_at": "2026-04-11 14:12:10",
-    "status": "uploading",
+    "status": "done",
     "remaining_seconds": 0,
     "activated_at": "2026-04-11 09:12:10",
-    "uploading_since": 1775916730.7431579
+    "uploading_since": 1775916730.7431579,
+    "video_id": "H42qC5d7d3U",
+    "link": "https://youtu.be/H42qC5d7d3U",
+    "uploaded_at": "2026-04-11 14:12:27"
   }
 ]
