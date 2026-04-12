@@ -616,5 +616,11 @@
     "system_id": "SKY-C413TG",
     "version": "v5.1.5",
     "build_hash": "BUILD-flqr"
+  },
+  {
+    "generated_at": "2026-04-12T08:53:52.289916",
+    "system_id": "SKY-CVLYW0",
+    "version": "v4.4.4",
+    "build_hash": "BUILD-9wx9"
   }
 ]
