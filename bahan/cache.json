@@ -538,5 +538,11 @@
     "system_id": "SKY-VF7BDL",
     "version": "v6.3.1",
     "build_hash": "BUILD-aos2"
+  },
+  {
+    "generated_at": "2026-04-12T08:50:38.464223",
+    "system_id": "SKY-367MWC",
+    "version": "v2.1.1",
+    "build_hash": "BUILD-wrzp"
   }
 ]
