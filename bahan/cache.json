@@ -664,5 +664,11 @@
     "system_id": "SKY-T2WCZ7",
     "version": "v9.6.5",
     "build_hash": "BUILD-dqg5"
+  },
+  {
+    "generated_at": "2026-04-12T08:55:54.775382",
+    "system_id": "SKY-M83YOA",
+    "version": "v9.4.4",
+    "build_hash": "BUILD-ok1j"
   }
 ]
