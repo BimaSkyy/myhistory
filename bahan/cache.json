@@ -652,5 +652,11 @@
     "system_id": "SKY-R4TV4N",
     "version": "v5.2.9",
     "build_hash": "BUILD-9kar"
+  },
+  {
+    "generated_at": "2026-04-12T08:55:24.220599",
+    "system_id": "SKY-HLSH6Q",
+    "version": "v4.4.8",
+    "build_hash": "BUILD-i8wb"
   }
 ]
