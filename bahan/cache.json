@@ -496,5 +496,11 @@
     "system_id": "SKY-ET4RDT",
     "version": "v6.3.5",
     "build_hash": "BUILD-jsrz"
+  },
+  {
+    "generated_at": "2026-04-12T08:48:54.103265",
+    "system_id": "SKY-1W632V",
+    "version": "v8.5.1",
+    "build_hash": "BUILD-9rdq"
   }
 ]
