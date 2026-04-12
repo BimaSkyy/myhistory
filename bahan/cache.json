@@ -844,5 +844,11 @@
     "system_id": "SKY-NH5RI0",
     "version": "v2.1.4",
     "build_hash": "BUILD-jffs"
+  },
+  {
+    "generated_at": "2026-04-12T09:03:34.225605",
+    "system_id": "SKY-E12EPH",
+    "version": "v6.3.3",
+    "build_hash": "BUILD-ache"
   }
 ]
