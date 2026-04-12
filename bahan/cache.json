@@ -838,5 +838,11 @@
     "system_id": "SKY-EESSI8",
     "version": "v7.4.6",
     "build_hash": "BUILD-xy8w"
+  },
+  {
+    "generated_at": "2026-04-12T09:03:19.560256",
+    "system_id": "SKY-NH5RI0",
+    "version": "v2.1.4",
+    "build_hash": "BUILD-jffs"
   }
 ]
