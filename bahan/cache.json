@@ -826,5 +826,11 @@
     "system_id": "SKY-2TW2VA",
     "version": "v3.2.2",
     "build_hash": "BUILD-sugj"
+  },
+  {
+    "generated_at": "2026-04-12T09:02:48.009607",
+    "system_id": "SKY-QG5P1H",
+    "version": "v8.5.1",
+    "build_hash": "BUILD-srh1"
   }
 ]
