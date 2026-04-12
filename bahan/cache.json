@@ -748,5 +748,11 @@
     "system_id": "SKY-KDRX03",
     "version": "v5.1.9",
     "build_hash": "BUILD-3zug"
+  },
+  {
+    "generated_at": "2026-04-12T08:59:28.020543",
+    "system_id": "SKY-ARBLIJ",
+    "version": "v8.1.0",
+    "build_hash": "BUILD-q8pp"
   }
 ]
