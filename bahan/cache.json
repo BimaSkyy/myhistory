@@ -946,5 +946,11 @@
     "system_id": "SKY-977XNR",
     "version": "v8.5.5",
     "build_hash": "BUILD-z77x"
+  },
+  {
+    "generated_at": "2026-04-12T09:07:59.403271",
+    "system_id": "SKY-JTC9QY",
+    "version": "v7.7.4",
+    "build_hash": "BUILD-prs3"
   }
 ]
