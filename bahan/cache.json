@@ -2020,5 +2020,11 @@
     "system_id": "SKY-MHD86B",
     "version": "v9.9.9",
     "build_hash": "BUILD-tn6u"
+  },
+  {
+    "generated_at": "2026-04-13T22:22:54.695691",
+    "system_id": "SKY-FC5TI1",
+    "version": "v4.4.4",
+    "build_hash": "BUILD-hp0u"
   }
 ]
