@@ -1426,5 +1426,11 @@
     "system_id": "SKY-MSC97B",
     "version": "v4.3.1",
     "build_hash": "BUILD-qqbk"
+  },
+  {
+    "generated_at": "2026-04-13T21:51:57.257690",
+    "system_id": "SKY-V0N1CJ",
+    "version": "v6.4.4",
+    "build_hash": "BUILD-klkc"
   }
 ]
