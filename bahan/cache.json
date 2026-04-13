@@ -1234,5 +1234,11 @@
     "system_id": "SKY-K3KGOA",
     "version": "v6.5.0",
     "build_hash": "BUILD-h0m3"
+  },
+  {
+    "generated_at": "2026-04-13T14:03:43.109985",
+    "system_id": "SKY-GNUKC8",
+    "version": "v4.8.6",
+    "build_hash": "BUILD-osut"
   }
 ]
