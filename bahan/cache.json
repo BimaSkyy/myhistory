@@ -1180,5 +1180,11 @@
     "system_id": "SKY-TMMQX6",
     "version": "v3.7.6",
     "build_hash": "BUILD-xen2"
+  },
+  {
+    "generated_at": "2026-04-13T11:21:19.411000",
+    "system_id": "SKY-BUSHAG",
+    "version": "v8.3.4",
+    "build_hash": "BUILD-2ctg"
   }
 ]
