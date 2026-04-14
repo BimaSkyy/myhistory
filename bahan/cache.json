@@ -13990,5 +13990,11 @@
     "system_id": "SKY-3ABFRV",
     "version": "v4.7.0",
     "build_hash": "BUILD-vdx5"
+  },
+  {
+    "generated_at": "2026-04-14T11:07:45.959014",
+    "system_id": "SKY-VYSV0M",
+    "version": "v8.3.0",
+    "build_hash": "BUILD-v9cj"
   }
 ]
