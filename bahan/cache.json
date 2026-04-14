@@ -12412,5 +12412,11 @@
     "system_id": "SKY-T5S9DK",
     "version": "v8.6.4",
     "build_hash": "BUILD-8if0"
+  },
+  {
+    "generated_at": "2026-04-14T09:19:56.627418",
+    "system_id": "SKY-X5DKEC",
+    "version": "v4.3.1",
+    "build_hash": "BUILD-zgkc"
   }
 ]
