@@ -15166,5 +15166,11 @@
     "system_id": "SKY-PXCWQP",
     "version": "v9.1.0",
     "build_hash": "BUILD-yomg"
+  },
+  {
+    "generated_at": "2026-04-14T12:32:59.098737",
+    "system_id": "SKY-E75WMA",
+    "version": "v8.3.8",
+    "build_hash": "BUILD-hbor"
   }
 ]
