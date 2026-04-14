@@ -13960,5 +13960,11 @@
     "system_id": "SKY-JVCU54",
     "version": "v8.9.2",
     "build_hash": "BUILD-w8ls"
+  },
+  {
+    "generated_at": "2026-04-14T11:05:48.112497",
+    "system_id": "SKY-NFZKT1",
+    "version": "v8.3.7",
+    "build_hash": "BUILD-c61f"
   }
 ]
