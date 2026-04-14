@@ -16366,5 +16366,11 @@
     "system_id": "SKY-YGNN0F",
     "version": "v2.6.1",
     "build_hash": "BUILD-2np5"
+  },
+  {
+    "generated_at": "2026-04-14T14:00:17.992898",
+    "system_id": "SKY-CX79X9",
+    "version": "v8.5.0",
+    "build_hash": "BUILD-sptn"
   }
 ]
