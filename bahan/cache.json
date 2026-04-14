@@ -9700,5 +9700,11 @@
     "system_id": "SKY-CUBX8N",
     "version": "v3.6.5",
     "build_hash": "BUILD-j7d3"
+  },
+  {
+    "generated_at": "2026-04-14T06:13:30.078810",
+    "system_id": "SKY-ZSOTAN",
+    "version": "v9.7.4",
+    "build_hash": "BUILD-71l1"
   }
 ]
