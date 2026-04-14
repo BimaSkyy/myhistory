@@ -13420,5 +13420,11 @@
     "system_id": "SKY-A71VG5",
     "version": "v5.2.7",
     "build_hash": "BUILD-u6a7"
+  },
+  {
+    "generated_at": "2026-04-14T10:28:19.050375",
+    "system_id": "SKY-Q8GIE8",
+    "version": "v7.4.6",
+    "build_hash": "BUILD-yz9n"
   }
 ]
