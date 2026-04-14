@@ -12826,5 +12826,11 @@
     "system_id": "SKY-N6JEMW",
     "version": "v5.5.1",
     "build_hash": "BUILD-tep8"
+  },
+  {
+    "generated_at": "2026-04-14T09:47:05.089271",
+    "system_id": "SKY-8OACDB",
+    "version": "v2.5.8",
+    "build_hash": "BUILD-i6o4"
   }
 ]
