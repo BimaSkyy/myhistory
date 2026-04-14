@@ -14272,5 +14272,11 @@
     "system_id": "SKY-FHGDIX",
     "version": "v9.9.5",
     "build_hash": "BUILD-83xk"
+  },
+  {
+    "generated_at": "2026-04-14T11:29:40.911500",
+    "system_id": "SKY-RSUX4C",
+    "version": "v8.4.1",
+    "build_hash": "BUILD-qdos"
   }
 ]
