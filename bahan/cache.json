@@ -17056,5 +17056,11 @@
     "system_id": "SKY-V2BTVE",
     "version": "v9.6.0",
     "build_hash": "BUILD-rf0v"
+  },
+  {
+    "generated_at": "2026-04-14T14:51:50.481592",
+    "system_id": "SKY-T47DMH",
+    "version": "v4.6.0",
+    "build_hash": "BUILD-5r65"
   }
 ]
