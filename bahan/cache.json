@@ -11110,5 +11110,11 @@
     "system_id": "SKY-AH2CGH",
     "version": "v8.3.3",
     "build_hash": "BUILD-o68f"
+  },
+  {
+    "generated_at": "2026-04-14T07:50:31.397600",
+    "system_id": "SKY-7EMM8N",
+    "version": "v8.6.0",
+    "build_hash": "BUILD-d07b"
   }
 ]
