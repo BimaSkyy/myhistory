@@ -21334,5 +21334,11 @@
     "system_id": "SKY-HM62JX",
     "version": "v6.6.4",
     "build_hash": "BUILD-mx9a"
+  },
+  {
+    "generated_at": "2026-04-14T20:17:17.975277",
+    "system_id": "SKY-L91TD7",
+    "version": "v6.0.0",
+    "build_hash": "BUILD-25ph"
   }
 ]
