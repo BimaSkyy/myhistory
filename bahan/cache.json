@@ -11710,5 +11710,11 @@
     "system_id": "SKY-LKNX05",
     "version": "v5.2.3",
     "build_hash": "BUILD-mc8y"
+  },
+  {
+    "generated_at": "2026-04-14T08:32:52.948193",
+    "system_id": "SKY-POMH6C",
+    "version": "v3.7.9",
+    "build_hash": "BUILD-d78o"
   }
 ]
