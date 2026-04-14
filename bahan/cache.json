@@ -10786,5 +10786,11 @@
     "system_id": "SKY-QE0UEB",
     "version": "v6.9.5",
     "build_hash": "BUILD-3yqe"
+  },
+  {
+    "generated_at": "2026-04-14T07:29:01.929074",
+    "system_id": "SKY-7ZS0XH",
+    "version": "v8.4.0",
+    "build_hash": "BUILD-00uz"
   }
 ]
