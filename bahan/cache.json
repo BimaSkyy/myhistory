@@ -12334,5 +12334,11 @@
     "system_id": "SKY-H9P0HQ",
     "version": "v8.6.5",
     "build_hash": "BUILD-kv7k"
+  },
+  {
+    "generated_at": "2026-04-14T09:15:07.445021",
+    "system_id": "SKY-05CQW3",
+    "version": "v6.3.0",
+    "build_hash": "BUILD-nhob"
   }
 ]
