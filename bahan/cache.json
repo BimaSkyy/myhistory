@@ -20422,5 +20422,11 @@
     "system_id": "SKY-2GOR6R",
     "version": "v7.1.7",
     "build_hash": "BUILD-4gbw"
+  },
+  {
+    "generated_at": "2026-04-14T19:04:55.736884",
+    "system_id": "SKY-HCUF4J",
+    "version": "v6.0.4",
+    "build_hash": "BUILD-mqtj"
   }
 ]
