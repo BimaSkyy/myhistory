@@ -16054,5 +16054,11 @@
     "system_id": "SKY-0ZJOF9",
     "version": "v9.4.6",
     "build_hash": "BUILD-zawo"
+  },
+  {
+    "generated_at": "2026-04-14T13:37:19.733714",
+    "system_id": "SKY-0P95S2",
+    "version": "v8.0.4",
+    "build_hash": "BUILD-cr20"
   }
 ]
