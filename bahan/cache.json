@@ -16372,5 +16372,11 @@
     "system_id": "SKY-CX79X9",
     "version": "v8.5.0",
     "build_hash": "BUILD-sptn"
+  },
+  {
+    "generated_at": "2026-04-14T14:00:42.352800",
+    "system_id": "SKY-2MFDNH",
+    "version": "v8.7.4",
+    "build_hash": "BUILD-no3x"
   }
 ]
