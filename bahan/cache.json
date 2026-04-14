@@ -6958,5 +6958,11 @@
     "system_id": "SKY-M3Z21K",
     "version": "v6.0.5",
     "build_hash": "BUILD-23zo"
+  },
+  {
+    "generated_at": "2026-04-14T03:14:36.631900",
+    "system_id": "SKY-N90LEF",
+    "version": "v2.2.5",
+    "build_hash": "BUILD-96po"
   }
 ]
