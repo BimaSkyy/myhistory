@@ -3766,5 +3766,11 @@
     "system_id": "SKY-RS6HBL",
     "version": "v7.3.5",
     "build_hash": "BUILD-s7rv"
+  },
+  {
+    "generated_at": "2026-04-14T00:01:11.804754",
+    "system_id": "SKY-R99IQJ",
+    "version": "v8.0.5",
+    "build_hash": "BUILD-r7oo"
   }
 ]
