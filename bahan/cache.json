@@ -11410,5 +11410,11 @@
     "system_id": "SKY-59KCMX",
     "version": "v2.5.7",
     "build_hash": "BUILD-8azb"
+  },
+  {
+    "generated_at": "2026-04-14T08:12:22.899893",
+    "system_id": "SKY-AMC3XC",
+    "version": "v3.8.0",
+    "build_hash": "BUILD-pscp"
   }
 ]
