@@ -14662,5 +14662,11 @@
     "system_id": "SKY-F1SYGM",
     "version": "v2.8.4",
     "build_hash": "BUILD-6o9c"
+  },
+  {
+    "generated_at": "2026-04-14T11:56:48.642999",
+    "system_id": "SKY-3INPGF",
+    "version": "v2.5.1",
+    "build_hash": "BUILD-951a"
   }
 ]
