@@ -14866,5 +14866,11 @@
     "system_id": "SKY-PM6YWB",
     "version": "v7.6.0",
     "build_hash": "BUILD-h4nq"
+  },
+  {
+    "generated_at": "2026-04-14T12:10:55.432116",
+    "system_id": "SKY-SBU7EI",
+    "version": "v4.4.2",
+    "build_hash": "BUILD-v6r3"
   }
 ]
