@@ -12958,5 +12958,11 @@
     "system_id": "SKY-KU4855",
     "version": "v6.5.7",
     "build_hash": "BUILD-d3cc"
+  },
+  {
+    "generated_at": "2026-04-14T09:56:14.069468",
+    "system_id": "SKY-MFPCOI",
+    "version": "v4.3.7",
+    "build_hash": "BUILD-2jyb"
   }
 ]
