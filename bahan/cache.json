@@ -17416,5 +17416,11 @@
     "system_id": "SKY-IQ51KP",
     "version": "v5.7.9",
     "build_hash": "BUILD-qqh8"
+  },
+  {
+    "generated_at": "2026-04-14T15:19:49.356063",
+    "system_id": "SKY-C42VVW",
+    "version": "v8.3.0",
+    "build_hash": "BUILD-8z0d"
   }
 ]
