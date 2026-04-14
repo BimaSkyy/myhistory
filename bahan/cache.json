@@ -15904,5 +15904,11 @@
     "system_id": "SKY-FBXT7M",
     "version": "v5.4.3",
     "build_hash": "BUILD-nmia"
+  },
+  {
+    "generated_at": "2026-04-14T13:26:51.342106",
+    "system_id": "SKY-IFH2J4",
+    "version": "v2.5.8",
+    "build_hash": "BUILD-zx3a"
   }
 ]
