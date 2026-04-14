@@ -1282,9 +1282,10 @@
     "timeout_unit": "hours",
     "upload_at_ts": 1776196486.1177237,
     "upload_at": "2026-04-14 19:54:46",
-    "status": "pending",
-    "remaining_seconds": 15.3,
-    "activated_at": "2026-04-14 07:54:46"
+    "status": "uploading",
+    "remaining_seconds": 0,
+    "activated_at": "2026-04-14 07:54:46",
+    "uploading_since": 1776196486.9371626
   },
   {
     "id": "13974bfe-a457-4ebe-a079-cefc274d1656",
