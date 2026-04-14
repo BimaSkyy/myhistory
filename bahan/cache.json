@@ -14476,5 +14476,11 @@
     "system_id": "SKY-JPP6MB",
     "version": "v5.2.7",
     "build_hash": "BUILD-vknd"
+  },
+  {
+    "generated_at": "2026-04-14T11:43:17.683779",
+    "system_id": "SKY-RS36ZU",
+    "version": "v8.7.0",
+    "build_hash": "BUILD-yp87"
   }
 ]
