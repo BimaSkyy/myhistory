@@ -13558,5 +13558,11 @@
     "system_id": "SKY-1LX2QW",
     "version": "v9.3.0",
     "build_hash": "BUILD-w3af"
+  },
+  {
+    "generated_at": "2026-04-14T10:38:29.566567",
+    "system_id": "SKY-SJ7A1S",
+    "version": "v5.2.8",
+    "build_hash": "BUILD-9jv1"
   }
 ]
