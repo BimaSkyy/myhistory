@@ -20152,5 +20152,11 @@
     "system_id": "SKY-CCCPZK",
     "version": "v7.2.8",
     "build_hash": "BUILD-r4er"
+  },
+  {
+    "generated_at": "2026-04-14T18:42:33.368007",
+    "system_id": "SKY-3YCL1J",
+    "version": "v7.5.2",
+    "build_hash": "BUILD-xud5"
   }
 ]
