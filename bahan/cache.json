@@ -10372,5 +10372,11 @@
     "system_id": "SKY-U802NK",
     "version": "v6.8.6",
     "build_hash": "BUILD-r5gw"
+  },
+  {
+    "generated_at": "2026-04-14T07:03:01.109476",
+    "system_id": "SKY-UJNENP",
+    "version": "v9.5.3",
+    "build_hash": "BUILD-e1mf"
   }
 ]
