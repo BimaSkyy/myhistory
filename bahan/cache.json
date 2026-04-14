@@ -14284,5 +14284,11 @@
     "system_id": "SKY-SCFC1N",
     "version": "v7.6.0",
     "build_hash": "BUILD-9s1f"
+  },
+  {
+    "generated_at": "2026-04-14T11:30:30.115331",
+    "system_id": "SKY-I4T1EJ",
+    "version": "v6.0.5",
+    "build_hash": "BUILD-rn7i"
   }
 ]
