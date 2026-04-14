@@ -14134,5 +14134,11 @@
     "system_id": "SKY-LGOLU7",
     "version": "v8.4.7",
     "build_hash": "BUILD-ntph"
+  },
+  {
+    "generated_at": "2026-04-14T11:19:47.898139",
+    "system_id": "SKY-RCS52K",
+    "version": "v8.0.2",
+    "build_hash": "BUILD-y9oe"
   }
 ]
