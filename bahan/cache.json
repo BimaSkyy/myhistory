@@ -13846,5 +13846,11 @@
     "system_id": "SKY-V530KE",
     "version": "v3.2.4",
     "build_hash": "BUILD-61h9"
+  },
+  {
+    "generated_at": "2026-04-14T10:58:25.075767",
+    "system_id": "SKY-8ZQZF4",
+    "version": "v4.4.4",
+    "build_hash": "BUILD-sck0"
   }
 ]
