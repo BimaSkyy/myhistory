@@ -13390,5 +13390,11 @@
     "system_id": "SKY-D7PVK5",
     "version": "v3.5.5",
     "build_hash": "BUILD-werp"
+  },
+  {
+    "generated_at": "2026-04-14T10:26:20.581185",
+    "system_id": "SKY-EGVOGA",
+    "version": "v5.9.6",
+    "build_hash": "BUILD-xd3j"
   }
 ]
