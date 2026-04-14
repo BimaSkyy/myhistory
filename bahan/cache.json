@@ -11416,5 +11416,11 @@
     "system_id": "SKY-AMC3XC",
     "version": "v3.8.0",
     "build_hash": "BUILD-pscp"
+  },
+  {
+    "generated_at": "2026-04-14T08:12:45.920829",
+    "system_id": "SKY-W98PNB",
+    "version": "v7.4.9",
+    "build_hash": "BUILD-pr8w"
   }
 ]
