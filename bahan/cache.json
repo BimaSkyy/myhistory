@@ -16834,5 +16834,11 @@
     "system_id": "SKY-OM4SOT",
     "version": "v8.5.7",
     "build_hash": "BUILD-ydo7"
+  },
+  {
+    "generated_at": "2026-04-14T14:35:53.002708",
+    "system_id": "SKY-BNNRZ1",
+    "version": "v8.6.4",
+    "build_hash": "BUILD-g6ft"
   }
 ]
