@@ -13030,5 +13030,11 @@
     "system_id": "SKY-SAD4H0",
     "version": "v4.5.6",
     "build_hash": "BUILD-l2tv"
+  },
+  {
+    "generated_at": "2026-04-14T10:02:24.717789",
+    "system_id": "SKY-6WOLNQ",
+    "version": "v8.8.8",
+    "build_hash": "BUILD-f80s"
   }
 ]
