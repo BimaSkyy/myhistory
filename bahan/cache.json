@@ -19054,5 +19054,11 @@
     "system_id": "SKY-TZU5NE",
     "version": "v3.4.0",
     "build_hash": "BUILD-xtpq"
+  },
+  {
+    "generated_at": "2026-04-14T17:20:13.307000",
+    "system_id": "SKY-ICSDOC",
+    "version": "v9.6.0",
+    "build_hash": "BUILD-agtf"
   }
 ]
