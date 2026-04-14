@@ -15364,5 +15364,11 @@
     "system_id": "SKY-PPC8OC",
     "version": "v6.2.0",
     "build_hash": "BUILD-8emu"
+  },
+  {
+    "generated_at": "2026-04-14T12:48:04.902572",
+    "system_id": "SKY-TI7L2Q",
+    "version": "v8.7.2",
+    "build_hash": "BUILD-ihbz"
   }
 ]
