@@ -15172,5 +15172,11 @@
     "system_id": "SKY-E75WMA",
     "version": "v8.3.8",
     "build_hash": "BUILD-hbor"
+  },
+  {
+    "generated_at": "2026-04-14T12:33:22.286212",
+    "system_id": "SKY-TO9V5C",
+    "version": "v9.6.0",
+    "build_hash": "BUILD-e4oh"
   }
 ]
