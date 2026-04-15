@@ -30508,5 +30508,11 @@
     "system_id": "SKY-4VTDSP",
     "version": "v7.2.8",
     "build_hash": "BUILD-zbed"
+  },
+  {
+    "generated_at": "2026-04-15T09:08:33.894203",
+    "system_id": "SKY-QLGPNE",
+    "version": "v8.5.8",
+    "build_hash": "BUILD-cvmo"
   }
 ]
