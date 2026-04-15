@@ -30334,5 +30334,11 @@
     "system_id": "SKY-QZKSOP",
     "version": "v6.9.3",
     "build_hash": "BUILD-cuc1"
+  },
+  {
+    "generated_at": "2026-04-15T08:51:44.181898",
+    "system_id": "SKY-F7GSR0",
+    "version": "v4.6.0",
+    "build_hash": "BUILD-osfs"
   }
 ]
