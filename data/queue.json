@@ -2401,10 +2401,11 @@
     "timeout_unit": "hours",
     "upload_at_ts": 1776747552.2339282,
     "upload_at": "2026-04-21 04:59:12",
-    "status": "uploading",
+    "status": "failed",
     "remaining_seconds": 0,
     "activated_at": "2026-04-20 23:59:12",
-    "uploading_since": 1776747553.582669
+    "uploading_since": 1776747553.582669,
+    "error": "Belum autentikasi YouTube"
   },
   {
     "id": "fee9f915-13d2-4ac5-9505-00925d77d3cf",
@@ -2441,10 +2442,11 @@
     "timeout_seconds": 18000.0,
     "timeout_value": 5.0,
     "timeout_unit": "hours",
-    "upload_at_ts": null,
-    "upload_at": "(menunggu giliran)",
-    "status": "waiting",
-    "remaining_seconds": null
+    "upload_at_ts": 1776765561.5232804,
+    "upload_at": "2026-04-21 09:59:21",
+    "status": "pending",
+    "remaining_seconds": 18000.0,
+    "activated_at": "2026-04-21 04:59:21"
   },
   {
     "id": "8ebef92e-ef17-441e-a6fb-adf1b72f39ad",
